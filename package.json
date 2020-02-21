@@ -1,0 +1,24 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Dome。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niedan123/ibook.git"
+  },
+  "keywords": [],
+  "author": "niedan123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niedan123/ibook/issues"
+  },
+  "homepage": "https://github.com/niedan123/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
